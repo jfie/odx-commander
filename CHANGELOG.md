@@ -6,6 +6,7 @@
 - Improved 'Comparams' view
 - Improved 'Comparam Subsets' view
 - Add support for the Flash structure
+- Integration of Table-Rows as chidlren of Table-Struct Parameters to browse Table based ODX Data.
 
 ## 0.1.0  (March 13,2021)
 
